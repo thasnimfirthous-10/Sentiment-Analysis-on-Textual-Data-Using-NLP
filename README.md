@@ -116,3 +116,4 @@ These results demonstrate the effectiveness of NLP preprocessing and machine lea
 This project demonstrates the practical application of Natural Language Processing and Machine Learning in sentiment analysis. The approach can be extended to real-world use cases such as customer feedback evaluation, social media sentiment monitoring, and brand opinion analysis.
 
 
+<img width="914" height="514" alt="Image" src="https://github.com/user-attachments/assets/2fd5edb6-c871-4efb-8301-c4f6754da979" />
